@@ -27,7 +27,7 @@
         },
 		{
 			"name": "Provenance",
-			"bundleIdentifier": "com.provenance-emu.provenance",
+			"bundleIdentifier": "org.provenance-emu.provenance",
 			"developerName": "Provenance Team",
 			"subtitle": "An iOS Frontend for Multiple Emulators",
 			"version": "2.0.0",
