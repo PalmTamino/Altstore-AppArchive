@@ -10,7 +10,7 @@
 			"version": "1.10.8",
 			"versionDate": "2021-05-1",
 			"versionDescription": "- Fixed cover art system (#203). Thanks, @unlmtd. - Fixed compilation errors (#191). Thanks, @jdkula.",
-			"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+			"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
 			"localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time, so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
 			"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
 			"tintColor": "FC2125",
@@ -101,6 +101,26 @@
 				"https://raw.githubusercontent.com/PalmTamino/Altstore-AppArchive/main/FlappyBirdMain4.png",
 				"https://raw.githubusercontent.com/PalmTamino/Altstore-AppArchive/main/FlappyBirdMain3.png",
 				"https://raw.githubusercontent.com/PalmTamino/Altstore-AppArchive/main/FlappyBirdMain2.png"
+			]
+		},
+		{
+            "name": "Channels",
+            "bundleIdentifier": "com.channelsapp.channels",
+            "developerName": "@afsimsir",
+            "subtitle": "Watch live TV & events for free with Channels",
+            "version": "1.9.0",
+            "versionDate": "2021-03-24T00:00:00-00:00",
+            "versionDescription": "• Bugfixes",
+            "downloadURL": "https://firebasestorage.googleapis.com/v0/b/channels-3c68e.appspot.com/o/channels19.ipa?alt=media&token=012e1ad4-89b7-4843-b3be-94631159acf3",
+            "localizedDescription": "Channels allows you to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.\nFeatures you will love:\n\n• Daily live events for NBA, NFL, Soccer, UFC and more\n• Categorized live TV channels\n• Daily updated Movies & TV Shows\n\n Follow @channelstheapp on Twitter for more information.",
+            "iconURL": "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/appicon.png",
+            "tintColor": "0093E9",
+            "size": 22000000,
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen1.png",
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen2.png",
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen3.png",
+                "https://raw.githubusercontent.com/FurkanSimsir/channels.github.io/master/screen4.png"
 			]
 		},
 		{
