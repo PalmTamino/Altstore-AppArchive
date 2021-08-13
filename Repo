@@ -50,7 +50,7 @@
 		},
 		{
 			"name": "UTM",
-			"bundleIdentifier": "com.osy86.UTM",
+			"bundleIdentifier": "com.utmapp.UTM",
 			"developerName": "osy86",
 			"subtitle": "Run virtual machines on iOS",
 			"version": "2.2.0",
