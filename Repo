@@ -4,7 +4,7 @@
 	"sourceURL": "https://burritosoftware.github.io/altstore/channels/burritosource.json",
 	"apps": [{
 			"name": "iNDS",
-			"bundleIdentifier": "net.nerd.iNDS",
+			"bundleIdentifier": "net.nerd.iNDS-true",
 			"developerName": "iNDS Team",
 			"subtitle": "Revival of the Nintendo DS emulator for iOS.",
 			"version": "1.10.8",
