@@ -14,7 +14,7 @@
 			"localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time, so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
 			"iconURL": "https://inds.nerd.net/Resources/required/AppIcon256.png",
 			"tintColor": "FC2125",
-			"size": 857669,
+			"size": 8160000,
 			"permissions": [{
 				"type": "photos",
 				"usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
