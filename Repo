@@ -257,7 +257,7 @@
 		{
 			"title": "What's New",
 			"identifier": "whatsnew",
-			"caption": "- Added Thermometer, by Ryan McLeod. Perfect for checking device throttle.\n- Added UTM, note that the screenshot is intended to be a placeholder image for now.\n\nThanks for using Burrito's AltStore.",
+			"caption": "- Added Jailbreaks and updated links!",
 			"tintColor": "018084",
 			"date": "2020-02-13",
 			"notify": false
@@ -267,12 +267,9 @@
 			"identifier": "connection",
 			"caption": "Release Channel: source | Version: 1.0b | Tap to visit our website.",
 			"tintColor": "FF9500",
-			"url": "https://google.com",
 			"date": "2020-02-14",
 			"notify": false
 		}
 	],
-	"userInfo": {
-		"patreonAccessToken": "JLh5bpOQsPg-HIRe6FHnRAktoeeU4JT5-Xk-y7njQrM"
-	}
+	"userInfo": {}
 }
