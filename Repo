@@ -36,7 +36,7 @@
 			"downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/2.0.0/Provenance-iOS.ipa",
 			"localizedDescription": "Relive the golden age of gaming.\n\nProvenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad, with support for Apple Game Controllers for that authentic experience.",
 			"iconURL": "https://pbs.twimg.com/profile_images/980683701628497920/Iv0DTyQA_400x400.jpg",
-			"tintColor": "4AA1F0",
+			"tintColor": "162434",
 			"size": 23184304,
 			"permissions": [{
 				"type": "photos",
