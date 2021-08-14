@@ -153,7 +153,7 @@
 			"versionDate": "2020-12-21",
 			"versionDescription": "Bug fixes and improvements.",
 			"downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Instagram-Rocket.ipa",
-			"localizedDescription": "he Much-Awaited App\n\nRocket for Instagram could be categorized as an Instagram user\u2019s dream tweak, because it\u2019s going to let you do things that the photo and video sharing social network probably doesn\u2019t want you to do, but nevertheless they\u2019re things you, the user, have wanted for a long time. Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nIf you\u2019re an Instagram user looking to enhance your abilities within the app and obtain features that no stock user is ever going to get, Rocket for Instagram could be your new best friend.\n\nAmazing Features:\n\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.",
+			"localizedDescription": "The Much-Awaited App\n\nRocket for Instagram could be categorized as an Instagram user\u2019s dream tweak, because it\u2019s going to let you do things that the photo and video sharing social network probably doesn\u2019t want you to do, but nevertheless they\u2019re things you, the user, have wanted for a long time. Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nIf you\u2019re an Instagram user looking to enhance your abilities within the app and obtain features that no stock user is ever going to get, Rocket for Instagram could be your new best friend.\n\nAmazing Features:\n\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.",
 			"iconURL": "https://i.imgur.com/Nf6m0w5.png",
 			"tintColor": "c7309b",
 			"size": 112171086,
@@ -162,6 +162,28 @@
 				"https://i.imgur.com/Xukz00u.png",
 				"https://i.imgur.com/JkU9XpS.png",
 				"https://i.imgur.com/H6FuvcZ.png"
+			]
+		},
+		{
+			"name": "Reddit++",
+			"bundleIdentifier": "syto203.reddit.pp",
+			"developerName": "syto203",
+			"subtitle": "Reddit++ is Ad-Free and customizable.",
+			"version": "2020.12.0",
+			"versionDate": "2020-12-21",
+			"versionDescription": "Bug fixes and improvements.",
+			"downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Reddit%2B%2B.ipa",
+			"localizedDescription": "The Reddit you know and love but with all the premium features you have always wanted.\n\n\u2022 Absolutely no ads.\n\u2022 Access to r/lounge\n\u2022 And more!",
+			"iconURL": "https://i.imgur.com/1YJO4aW.png",
+			"tintColor": "ff4500",
+			"size": 112171086,
+			"screenshotURLs": [
+				"https://i.imgur.com/KWMTEJj.png",
+				"https://i.imgur.com/qHnOKuC.png",
+				"https://i.imgur.com/zg5knuy.png",
+				"https://i.imgur.com/XVC7rfu.png",
+				"https://i.imgur.com/H4xxQdt.png",
+				"https://i.imgur.com/4b7Tm9j.png
 			]
 		},
 		{
