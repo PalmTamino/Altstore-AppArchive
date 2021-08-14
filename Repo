@@ -145,6 +145,26 @@
 			]
 		},
 		{
+			"name": "Instagram Rocket",
+			"bundleIdentifier": "com.burbn.instagram",
+			"developerName": "Majd Alfhaily",
+			"subtitle": "Rocket for Instagram",
+			"version": "145.0",
+			"versionDate": "2020-12-21",
+			"versionDescription": "Bug fixes and improvements.",
+			"downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Instagram-Rocket.ipa",
+			"localizedDescription": "he Much-Awaited App\n\nRocket for Instagram could be categorized as an Instagram user\u2019s dream tweak, because it\u2019s going to let you do things that the photo and video sharing social network probably doesn\u2019t want you to do, but nevertheless they\u2019re things you, the user, have wanted for a long time. Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nIf you\u2019re an Instagram user looking to enhance your abilities within the app and obtain features that no stock user is ever going to get, Rocket for Instagram could be your new best friend.\n\nAmazing Features:\n\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.",
+			"iconURL": "https://i.imgur.com/Nf6m0w5.png",
+			"tintColor": "c7309b",
+			"size": 112171086,
+			"screenshotURLs": [
+				"https://i.imgur.com/SZcgiMZ.png",
+				"https://i.imgur.com/Xukz00u.png",
+				"https://i.imgur.com/JkU9XpS.png",
+				"https://i.imgur.com/H6FuvcZ.png"
+			]
+		},
+		{
 			"name": "appdb",
 			"bundleIdentifier": "it.ned.appdb-ios",
 			"developerName": "n3d1117",
@@ -323,13 +343,13 @@
 	],
 	"news": [
 		{
-			"title": "unc0ver is now out!",
+			"title": "unc0ver 6.2.0 is now out!",
 			"identifier": "undecimus",
 			"caption": "The most advanced jailbreak tool. iOS 11 to 14.5",
 			"tintColor": "8c8c8c",
-			"imageURL": "https://cdn.discordapp.com/attachments/482068798095228928/678393363590021130/unknown.png",
+			"imageURL": "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/background.jpg",
 			"appID": "science.xnu.undecimus",
-			"date": "2020-02-09",
+			"date": "2021-07-17",
 			"notify": false
 		},
 		{
@@ -337,15 +357,7 @@
 			"identifier": "whatsnew",
 			"caption": "- Added Jailbreaks and updated links!",
 			"tintColor": "018084",
-			"date": "2020-02-13",
-			"notify": false
-		},
-		{
-			"title": "Welcome to Tamino's AltStore",
-			"identifier": "connection",
-			"caption": "Release Channel: source | Version: 1.0b | Tap to visit our website.",
-			"tintColor": "FF9500",
-			"date": "2020-02-14",
+			"date": "2021-08-14",
 			"notify": false
 		}
 	],
