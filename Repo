@@ -145,6 +145,27 @@
 			]
 		},
 		{
+			"name": "YouTube",
+			"bundleIdentifier": "com.google.ios.youtube",
+			"developerName": "tamino",
+			"subtitle": "Enhance your experience",
+			"version": "17.05.2",
+			"versionDate": "2021-08-09",
+			"versionDescription": "Bug fixes, stability improvements, repairs to space-time continuum.",
+			"downloadURL": "https://cdn-105.anonfiles.com/P0MeZfH8x8/0e5b28cc-1644857604/YouTubeTamino.ipa",
+			"localizedDescription": "YouTube++ comes with original features we all like and love while injecting additional tweaks for extra functionality.\n\nList of injected tweaks:\nCercube for YouTube v5.3.5\nReturn YouTube Dislike v1.6.2\nYouPiP v1.6.6\niSponsorBlock v1.0-13",
+			"iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/uYou/icon.png",
+			"tintColor": "1E47D0",
+			"size": 112171086,
+			"screenshotURLs": [
+				"https://miro92.com/repo/depictions/com.miro.uyou/screenshots/1.jpg",
+				"https://miro92.com/repo/depictions/com.miro.uyou/screenshots/2.jpg",
+				"https://miro92.com/repo/depictions/com.miro.uyou/screenshots/3.jpg",
+				"https://miro92.com/repo/depictions/com.miro.uyou/screenshots/4.jpg",
+				"https://miro92.com/repo/depictions/com.miro.uyou/screenshots/5.jpg"
+			]
+		},
+		{
 			"name": "Instagram Rocket",
 			"bundleIdentifier": "com.burbn.instagram",
 			"developerName": "Majd Alfhaily",
@@ -230,11 +251,11 @@
 			"bundleIdentifier": "science.xnu.undecimus",
 			"developerName": "Pwn20wnd",
 			"subtitle": "The most advanced jailbreak tool.",
-			"version": "6.2.0",
-			"versionDate": "2021-07-17",
+			"version": "8.0.2",
+			"versionDate": "2021-12-29",
 			"versionDescription": "Major stability and reliability improvements to iOS 14 support",
-			"downloadURL": "https://unc0ver.dev/downloads/6.2.0/15e18e455ca3971433261443a42355ee883a2092/unc0ver_Release_6.2.0.ipa",
-			"localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatible:\nunc0ver supports iOS 11.0 through to iOS 13.3 (Excluding 12.3-12.3.2).\n\nStable:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
+			"downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+			"localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatible:\nunc0ver supports iOS 11.0 through to iOS 14.8 (Excluding 12.3-12.3.2).\n\nStable:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
 			"iconURL": "https://raw.githubusercontent.com/TaminoPalm/Altstore-Unc0ver/main/1C284488-34AB-4A16-B6A1-2C0B169C9E01.jpeg",
 			"tintColor": "8c8c8c",
 			"size": 857669,
@@ -252,7 +273,7 @@
 			"version": "1.0.6",
 			"versionDate": "2021-06-11",
 			"versionDescription": "- Applies a fix for amfid panics so that it should happen less often\n- BSODs dump info about the BSOD to /.last_bsod\n- Creating /.verbose_bsod will show a verbose BSOD instead\n- SpringBoard alert when tweaks are disabled (either in case of a BSOD or when they're disabled manually)",
-			"downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.0.6/Taurine-1.0.6.ipa",
+			"downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.1/Taurine-1.1.1.ipa",
 			"localizedDescription": "Taurine is an iOS 14.0-14.3 jailbreak, utilising Procursus and Libhooker.",
 			"iconURL": "https://taurine.app/assets/images/icon.png",
 			"tintColor": "F65656",
@@ -365,19 +386,19 @@
 	],
 	"news": [
 		{
-			"title": "unc0ver 6.2.0 is now out!",
+			"title": "unc0ver 8.0.2 is now out!",
 			"identifier": "undecimus",
-			"caption": "The most advanced jailbreak tool. iOS 11 to 14.5",
+			"caption": "The most advanced jailbreak tool. iOS 11 to 14.8",
 			"tintColor": "8c8c8c",
 			"imageURL": "https://raw.githubusercontent.com/starrys121/unc0veraltsource/master/background.jpg",
 			"appID": "science.xnu.undecimus",
-			"date": "2021-07-17",
+			"date": "2021-12-29",
 			"notify": false
 		},
 		{
 			"title": "What's New",
 			"identifier": "whatsnew",
-			"caption": "- Added Jailbreaks and updated links!",
+			"caption": "- Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8",
 			"tintColor": "018084",
 			"date": "2021-08-14",
 			"notify": false
